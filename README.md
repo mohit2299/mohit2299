@@ -7,7 +7,6 @@ With 3.5+ years of experience in analytics, operations, and product strategy, Iâ
 
 <p><b>What do I bring to the table?</b><br>
 Analytics | Strategy | Process Optimization<br>
-ðŸ’¡ SQL | Python | Power BI | Machine Learning | Business Intelligence</p>
 
 <hr>
 
