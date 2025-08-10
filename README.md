@@ -1,7 +1,7 @@
 <p align="justify">
 Hi there! 👋  
-I'm <b>Mohit Gupta</b>, an Analytics & Product Strategy enthusiast passionate about data-driven decision-making and optimizing business operations.  
-With 3.5+ years of experience in analytics, operations, and product strategy, I’ve helped organizations streamline financial reporting, supply chain efficiency, and data automation. I thrive on solving complex problems and turning raw data into actionable insights that drive business growth.
+I'm <b>Mohit Gupta</b>, an Analytics & Product Strategy enthusiast passionate about data-driven decision-making and optimising business operations.  
+With 3.5+ years of experience in analytics, operations, and product strategy, I’ve helped organisations streamline financial reporting, supply chain efficiency, and data automation. I thrive on solving complex problems and turning raw data into actionable insights that drive business growth.
 </p>
 
 <hr>
